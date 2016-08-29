@@ -5,8 +5,8 @@
   "version": "1.0",
   "dependencies": {
     "system": {
-      "type": "SAE", /** Required minimal Siberian Edition (SAE/MAE/PE) */
-      "version": "4.2.0" /** Required minimal Siberian version */
+      "type": "SAE",
+      "version": "4.2.0"
     }
   }
 }
